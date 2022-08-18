@@ -1,5 +1,12 @@
-.text {
+.topleftheader {
   font-family: 'Roboto', sans-serif;
+  color: white;
+  background-color: #1f2937;
+  width: 200px;
+  height: 200px;
+  border: 2px solid red;
+  padding: 50px;
+  margin: 20px;
 }
 
 .nightcity {
