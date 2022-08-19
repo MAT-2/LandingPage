@@ -1,4 +1,40 @@
+.navbar-container {
+  display: flex;
+  background: #1f2937;
+}
 
+.header-logo {
+  background: #1f2937;
+  color: white;
+  padding: 50px;
+  margin: 30px;
+  border: 5px solid red;
+  position: center;
+}
+
+.headerlink1 {
+  background: #1f2937;
+  color: white;
+  padding: 50px;
+  margin: 30px;
+  border: 10px solid red;
+}
+
+.headerlink2 {
+  background: #1f2937;
+  color: white;
+  padding: 50px;
+  margin: 30px;
+  border: 10px solid red;
+}
+
+.headerlink3 {
+  background: #1f2937;
+  color: white;
+  padding: 50px;
+  margin: 30px;
+  border: 10px solid red;
+}
 
 .nightcity {
   max-height: 10000px;
