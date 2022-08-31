@@ -99,6 +99,27 @@
   text-align: center;
 }
 
+.containerquote {
+display:block;
+background-color:#E5E7EB;
+padding: 100px;
+text-align: center;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  inline-size: 1700px;
+}
+
+.author {
+  position: relative; left: 250px;
+}
+
+
+
+
 
 
 
