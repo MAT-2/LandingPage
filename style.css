@@ -117,7 +117,53 @@ text-align: center;
   position: relative; left: 250px;
 }
 
+.signupcontainer {
+  background-color: white;
 
+}
+
+.signuptext{
+background-color: #3882F6;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-right: 500px;
+margin-left: 500px;
+border-color: grey;
+border-style: solid;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 110px;
+padding-right: 110px;
+border-radius: 70px;
+
+}
+
+.signupheader {
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+}
+
+.signupbody {
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  inline-size: 300px;
+  color: white;
+}
+
+.signupbutton {
+float: right;
+align-items: center;
+position: relative; right: 100px; bottom: 90px;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 10px;
+border-color: aliceblue;
+background-color: #3882F6;
+color: white;
+}
 
 
 
